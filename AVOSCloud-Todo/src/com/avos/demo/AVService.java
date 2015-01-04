@@ -18,6 +18,7 @@ public class AVService {
     AVOSCloud.initialize(ctx, "70l90kzm53nplnu013ala0j8wipr594d36m5zuz94ukvmh5s",
         "lamrsuheyiaqcx4o7m3jaz4awaeukerit1mucnjwk7ibokfv");
     // 启用崩溃错误报告
+    AVOSCloud.setDebugLogEnabled(true);
     AVAnalytics.enableCrashReport(ctx, true);
     // 注册子类
     AVObject.registerSubclass(Todo.class);
