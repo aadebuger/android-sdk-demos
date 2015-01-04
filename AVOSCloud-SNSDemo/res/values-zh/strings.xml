@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="qq_auth">QQ授权</string>
+    <string name="sina_auth">Sina授权</string>
+
+</resources>
