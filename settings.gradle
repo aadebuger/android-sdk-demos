@@ -1,0 +1,5 @@
+include ':AVOSCloud-Demo'
+include ':AVOSCloud-Push'
+include ':AVOSCloud-SNSDemo'
+include ':AVOSCloud-Todo'
+include ':AnyTime'
